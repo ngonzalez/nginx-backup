@@ -1,2 +1,8 @@
 # nginx-backup
-Nginx with docker compose and volume attached to external drive
+Nginx: Connect to backup archive
+
+
+##### Start Application
+```shell
+docker compose up
+```
